@@ -1,1 +1,6 @@
+title: Toodles
+description: ''
+baseurl: "" # Leave this empty if your site is at https://yourusername.github.io/
+url: "https://shivani9pathak.github.io" # Replace with your GitHub Pages URL
+theme: jekyll-theme-primer # Replace with your theme
 
